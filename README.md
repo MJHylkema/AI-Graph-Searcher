@@ -1,1 +1,1 @@
-# AI-Graph-Searcher
+# A-Star Graph Searcher
